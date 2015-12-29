@@ -15,7 +15,7 @@ Then, we propose an implementation of Large-Scale Spectral Clustering, both on a
 
 ===============
 
-<sup>*Guillaume Salha*
+<sup>*Guillaume Salha & Gautier Appert*
 
 <sup>*École Normale Supérieure de Cachan*
 
