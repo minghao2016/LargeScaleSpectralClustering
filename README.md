@@ -1,5 +1,4 @@
 # Large-Scale Spectral Clustering on Graphs
-===============
 
 Spectral Clustering has become an widely used technique to detect complex shapes and manifold structure on graph data.
 In the past few years, many previous works on this method reported good experimental results on some challenging 
